@@ -30,25 +30,25 @@
 
 ---
 
+## 🔗 Connect with Me
+
+<p>
+  <a href="www.linkedin.com/in/aryan-burnwal-21a622253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:aburnwal26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://orcid.org/0009-0001-9484-3206" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-a6ce39?logo=orcid&style=flat-square" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arihant-3&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Arihant-3&theme=radical" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p>
-  <a href="www.linkedin.com/in/aryan-burnwal-21a622253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="mailto:aburnwal26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aburnwal26@gmail.com-D14836?logo=gmail&style=flat-square" />
-  </a>
-  <a href="https://orcid.org/0009-0001-9484-3206" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-Coming%20Soon-a6ce39?logo=orcid&style=flat-square" />
-  </a>
 </p>
