@@ -34,13 +34,13 @@
 
 <p>
   <a href="www.linkedin.com/in/aryan-burnwal-21a622253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedInblue?logo=linkedin&style=flat-square" />
   </a>
   <a href="mailto:aburnwal26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" />
+    <img src="https://img.shields.io/badge/EmailD14836?logo=gmail&style=flat-square" />
   </a>
   <a href="https://orcid.org/0009-0001-9484-3206" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-a6ce39?logo=orcid&style=flat-square" />
+    <img src="https://img.shields.io/badge/ORCIDa6ce39?logo=orcid&style=flat-square" />
   </a>
 </p>
 
